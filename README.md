@@ -1,4 +1,4 @@
-# [Project 1: Indian Startup Ecosystem Exploratory Data Analysis]([https://github.com/VivekPratapSingh70/Netflix-Disney-Analysis](https://github.com/vivek-singh-26/vivek-s_portfolio/tree/main/Project_1_Indian_Startup_Ecosystem_Analysis))
+# [Project 1: Indian Startup Ecosystem Exploratory Data Analysis](https://github.com/vivek-singh-26/vivek-s_portfolio/tree/main/Project_1_Indian_Startup_Ecosystem_Analysis)
 # [Project 2: Netflix-Disney Exploratory Data Analysis](https://github.com/VivekPratapSingh70/Netflix-Disney-Analysis)
 
 This is a project where I did exploratory analysis on Netflix and Hotstar dataset.
