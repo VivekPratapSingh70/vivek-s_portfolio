@@ -1,4 +1,16 @@
 # [Project 1: Indian Startup Ecosystem Exploratory Data Analysis](https://github.com/vivek-singh-26/vivek-s_portfolio/tree/main/Project_1_Indian_Startup_Ecosystem_Analysis)
+
+In this project I have used Pandas, Matplotlib and Seaborn to perform analysis on Indian Startup Ecosystem dataset. This dataset was taken from Kaggle.com, link for it is given below:
+ - [Indian Startup Ecosytem(dataset)]()
+   
+Full analysis in Jupyter notebook is given below:
+ - []()
+  
+This dataset shows us the Startups which got funding between 2016-2017. We will clean and transform the dataset to perform analysis, and then see which sectors are getting the most funding and how the Startup funding decreased overtime. 
+
+Finally, we will conclude our analysis with keytake aways from dataset and probable cause of the decrease in funding.
+
+
 # [Project 2: Netflix-Disney Exploratory Data Analysis](https://github.com/VivekPratapSingh70/Netflix-Disney-Analysis)
 
 This is a project where I did exploratory analysis on Netflix and Hotstar dataset.
