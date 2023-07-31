@@ -4,9 +4,15 @@ In this project I have used Pandas, Matplotlib and Seaborn to perform analysis o
  - [Indian Startup Ecosytem(dataset)](https://github.com/vivek-singh-26/vivek-s_portfolio/blob/main/Project_1_Indian_Startup_Ecosystem_Analysis/Indian%20Startup%20Ecosystem%20Analysis(dataset).txt)
    
 Full analysis in Jupyter notebook is given below:
- - []()
+ - [Indian Startup Ecosystem EDA(Jupyter Notebook)](https://github.com/vivek-singh-26/vivek-s_portfolio/blob/main/Project_1_Indian_Startup_Ecosystem_Analysis/Indian%20Startup%20Ecosystem%20Analysis.ipynb)
   
 This dataset shows us the Startups which got funding between 2016-2017. We will clean and transform the dataset to perform analysis, and then see which sectors are getting the most funding and how the Startup funding decreased overtime. 
+
+![Count of Startups in Industries](Project_1_Indian_Startup_Ecosystem_Analysis/Industries.png)
+
+![Top 20 Startups](Project_1_Indian_Startup_Ecosystem_Analysis/top20startups.png)
+
+![Quarterly Trend](Project_1_Indian_Startup_Ecosystem_Analysis/QuarterlyTrend.png)
 
 Finally, we will conclude our analysis with keytake aways from dataset and probable cause of the decrease in funding.
 
